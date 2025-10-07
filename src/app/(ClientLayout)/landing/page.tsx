@@ -23,7 +23,7 @@ export default function LandingPage() {
         }}
       >
         <Typography variant="h3" gutterBottom color="primary">
-          Blackout AYCE Software
+          CMETAL Software
         </Typography>
 
         <Typography variant="h6" gutterBottom color="text.secondary">

@@ -74,7 +74,7 @@ const SidebarItems = () => {
     < >
       <MUI_Sidebar width={"100%"} showProfile={false} themeColor={"#5D87FF"} themeSecondaryColor={'#49beff'} >
 
-        <Logo img='/images/logos/logo_small.png' component={Link} href="/private/admin/comande" ></Logo>
+        <Logo img='/images/logos/logo_transparent.png' component={Link} href="/private/admin/comande" ></Logo>
 
         {renderMenuItems(Menuitems, pathDirect)}
       </MUI_Sidebar>

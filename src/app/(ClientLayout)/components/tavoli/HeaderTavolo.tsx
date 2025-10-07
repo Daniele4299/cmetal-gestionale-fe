@@ -30,7 +30,7 @@ const HeaderTavolo: React.FC<Props> = ({ sessione, categoriaSelezionata, setCate
       <Box sx={{ maxWidth: "md", mx: "auto", display: "flex", flexDirection: "column", gap: 1, py: 1 }}>
         <Box sx={{ display: "flex", flexDirection: "row", alignItems: "center", gap: 2, width: "100%" }}>
           <Image
-            src="/images/logos/logo.png"
+            src="/images/logos/logo_transparent.png"
             alt="Logo ristorante"
             width={120}
             height={60}

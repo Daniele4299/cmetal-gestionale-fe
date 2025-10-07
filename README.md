@@ -1,4 +1,4 @@
-This is a AYCE Frontend software.
+This is a CMETAL Frontend software.
 
 ## Getting Started
 
